@@ -32,5 +32,42 @@ You will later select which part of the globe you wanna choose to create the mas
 #General Configuration
 To use the database already prepared go to (add link) and download the zip.
 1. Download the zip and check the name
-2. Create a folder in the repository root with name (add name)
-3. 
+2. Check that the folder name macthes the one on the Colab.
+
+# Models:
+· VGG15
+· ResNET18
+· ResNet50
+· DeepLabV3
+
+# Experiments
+## First Experiment
+
+### Results
+
+### Conclusions
+
+## Second Experiment
+
+### Results
+
+### Conclusions
+
+## Third experiment
+
+### Results
+
+### Conclusions
+
+# How to get new data from MODIS:
+
+# Final Conclusions
+
+# Future usage:
+· Finetune to get a better accuracy
+· Develop a frontend to visualize everything
+
+# Bibliography:
+- Documentation about [TorchGeo](https://torchgeo.readthedocs.io/en/latest/api/trainers.html#torchgeo.trainers.SemanticSegmentationTask)
+- Documentation about [DeepLabV3](https://smp.readthedocs.io/en/latest/models.html#deeplabv3)
+
