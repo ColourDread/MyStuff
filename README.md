@@ -262,7 +262,7 @@ Available [here](https://github.com/boroju/aidl-upc-winter2024-satellite-imagery
 
 ### Conclusions
 - This model works, as seen before the accuracy reaches 93.68%. 
-- Because the model works, we want to try with another dataset made from scratch based on NASA Satellites.
+- Now that the model works, we want to try with another dataset made of masks obtained from NASA Satelites.
 - The new model will use a more powerful CNN performed on AWS.
 
 
@@ -363,7 +363,7 @@ Features are:
 ![image](https://github.com/ColourDread/MyStuff/assets/149001130/96e5787e-8339-4953-971a-ba0f5b1d9d39)
 
 ### Conclusions
-- The model has worked with an accuracy of 75%.
+- The model has achieved an accuracy of 75%.
 
 # Final Conclusions
 - As satellites are continually monitoring and photographing the planet, an application of this type can be very useful to detect particularly sensitive areas so that they can be subjected to stricter surveillance, thereby helping to prevent fires.
