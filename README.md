@@ -24,11 +24,11 @@ You will later select which part of the globe you wanna choose to create the mas
 ## Table of Contents
 
 1. [General Configuration:](#GeneralConfiguration)
-2. [Usage](#usage)
-3. [Configuration](#configuration)
-4. [Contributing](#contributing)
-5. [Credits](#credits)
-6. [License](#license)
+2. [Models](#Models)
+3. [Experiments](#Experiments)
+4. [Final Conclusions](#FinalConclusions)
+5. [Future Usage](#Future Usage)
+6. [Bibliography](#Bibliography)
 
 # General Configuration
 To use the database already prepared go to (add link) and download the zip.
@@ -265,7 +265,7 @@ Available [here](https://github.com/boroju/aidl-upc-winter2024-satellite-imagery
 - The new model will use a more powerful CNN performed on AWS.
 
 
-## Second Experiment
+## Experiment B:
 ## Dataset Overview
 Our unique dataset is crafted using images from the National Agriculture Imagery Program (NAIP) and the Moderate Resolution Imaging Spectroradiometer (MODIS) Fire and Thermal Anomalies datasets, accessed through Google Earth Engine (GEE). Specifically, the dataset includes:
 
