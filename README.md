@@ -259,6 +259,10 @@ Available [here](https://github.com/boroju/aidl-upc-winter2024-satellite-imagery
 ### Results
 
 ### Conclusions
+- This model works, as seen before the accuracy reaches 93.68%. 
+- Because the model works, we want to try with another dataset made from scratch based on NASA Satellites.
+- The new model will use a more powerful CNN performed on AWS.
+
 
 ## Second Experiment
 ## Dataset Overview
@@ -354,7 +358,9 @@ This repository contains all the code and notebooks required to replicate our pr
 ### Conclusions
 
 
+
 # Final Conclusions
+
 
 # Future usage:
 · Finetune to get a better accuracy
