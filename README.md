@@ -1,6 +1,6 @@
 # Wildfire Probability Prediction Using Satelite Images
 
-This project focuses on developing a comprehensive tool for the efficient detectionof the probability of wildfires using satellite images provided by NASA, which are stored as TIFF files. The primary objective is to create a robust system capable of implementing and evaluating the probability that an area has of suffering a wildfire or not.
+This project focuses on developing a comprehensive tool for the efficient detection of the probability of wildfires using satellite images provided by NASA, which are stored as TIFF files. The primary objective is to create a robust system capable of implementing and evaluating the probability that an area has of suffering a wildfire or not.
 
 The dataset for this project consists of a curated dataset from Kaggle and a high-resolution satellite images obtained from NASA, offering a diverse range of data for real-world wildfire scenarios. The project employs advanced image processing techniques and leverages state-of-the-art machine learning models to achieve accurate and timely wildfire probability detection.
 
