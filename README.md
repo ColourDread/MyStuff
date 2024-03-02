@@ -14,8 +14,9 @@ The original code is the Final Project delivery for the [UPC Artificial Intellig
 Advised by professor [Amanda Duarte](https://es.linkedin.com/in/amanda-cardoso-duarte)
 
 # Wildfire Detection Overview:
-The final product looks like this, you can see an image of a territory on the left and the same one the right but with the mask applied on it:
-![image](https://github.com/ColourDread/MyStuff/assets/149001130/769ddaed-f56b-4c60-866c-d99d2ad0cde3)
+The final product looks like this, you can see an image of a territory on the left and the probabilities (marked on yellow on the right):
+![image](https://github.com/ColourDread/MyStuff/assets/149001130/5dac47f7-248a-471e-a8a7-b9d0a19315be)
+
 
 You will later select which part of the globe you wanna choose to create the mask.
 
