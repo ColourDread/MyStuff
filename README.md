@@ -353,7 +353,6 @@ This repository contains all the code and notebooks required to replicate our pr
 
 ### Conclusions
 
-# How to get new data from MODIS:
 
 # Final Conclusions
 
