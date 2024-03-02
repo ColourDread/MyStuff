@@ -29,16 +29,16 @@ You will later select which part of the globe you wanna choose to create the mas
 5. [Credits](#credits)
 6. [License](#license)
 
-#General Configuration
+# General Configuration
 To use the database already prepared go to (add link) and download the zip.
 1. Download the zip and check the name
 2. Check that the folder name macthes the one on the Colab.
 
 # Models:
-· VGG15
-· ResNET18
-· ResNet50
-· DeepLabV3
+- VGG15
+- ResNET18
+- ResNet50
+- DeepLabV3
 
 # Experiments
 ## First Experiment
@@ -354,17 +354,28 @@ This repository contains all the code and notebooks required to replicate our pr
 - Basic familiarity with PyTorch and satellite image processing.
 
 ### Results
+Here we can see a predicted fire mask from a real satelite image. 
+Features are:
+- Coordinates
+- Wildfire probability zones (marked on yellow)
+![image](https://github.com/ColourDread/MyStuff/assets/149001130/96e5787e-8339-4953-971a-ba0f5b1d9d39)
 
 ### Conclusions
-
-
+- The model has worked with an accuracy of 75%.
 
 # Final Conclusions
+- As satellites are continually monitoring and photographing the planet, an application of this type can be very useful to detect particularly sensitive areas so that they can be subjected to stricter surveillance, thereby helping to prevent fires.
+- We've experimented with the two datasets and two models and, in both cases, they suggest the feasibility of the project.
+- The use of masks is particularly useful for:
+  - Allowing the precise identification and delineation of objects or regions of interest in a satellite image.
+  - Reducing noise or parts of the image that are not essential for analysis.
+  - Improving model accuracy; masks enable increased model precision by helping it better understand the image structure, leading to more accurate predictions.
+  - Optimizing computational resources by eliminating irrelevant information in images.
 
 
 # Future usage:
-· Finetune to get a better accuracy
-· Develop a frontend to visualize everything
+- Finetune to get a better accuracy
+- Develop a frontend to visualize everything
 
 # Bibliography:
 - Documentation about [TorchGeo](https://torchgeo.readthedocs.io/en/latest/api/trainers.html#torchgeo.trainers.SemanticSegmentationTask)
