@@ -25,10 +25,11 @@ You will later select which part of the globe you wanna choose to create the mas
 
 1. [General Configuration:](#GeneralConfiguration)
 2. [Models](#Models)
-3. [Experiments](#Experiments)
-4. [Final Conclusions](#FinalConclusions)
-5. [Future Usage](#FutureUsage)
-6. [Bibliography](#Bibliography)
+3. [Dealing with Satellite Imagery data is not easy at all](#DealingwithSatelliteImagerydataisnoteasyatall)
+4. [Experiments](#Experiments)
+5. [Final Conclusions](#FinalConclusions)
+6. [Future Usage](#FutureUsage)
+7. [Bibliography](#Bibliography)
 
 # General Configuration
 To use the database already prepared go to (add link) and download the zip.
@@ -41,8 +42,6 @@ To use the database already prepared go to (add link) and download the zip.
 - ResNet50
 - DeepLabV3
 
-# Experiments
-## First Experiment
 # Dealing with Satellite Imagery data is not easy at all
 
 In the initial phase of the project, we were uncertain about the feasibility of building our own dataset. During this stage, we explored various satellite products, such as:
@@ -52,7 +51,8 @@ In the initial phase of the project, we were uncertain about the feasibility of 
 
 We realized that constructing our satellite imagery dataset would be quite challenging. So, we decided to split the work force into two groups. One group would continue investigating the feasibility of building our own dataset, while the other group would find a curated dataset.
 
-# Experiment A: Working with a curated dataset
+# Experiments
+## Experiment A: Working with a curated dataset
 
 ## Contents
 
@@ -265,7 +265,7 @@ Available [here](https://github.com/boroju/aidl-upc-winter2024-satellite-imagery
 - The new model will use a more powerful CNN performed on AWS.
 
 
-## Experiment B:
+## Experiment B: Working with our own dataset
 ## Dataset Overview
 Our unique dataset is crafted using images from the National Agriculture Imagery Program (NAIP) and the Moderate Resolution Imaging Spectroradiometer (MODIS) Fire and Thermal Anomalies datasets, accessed through Google Earth Engine (GEE). Specifically, the dataset includes:
 
