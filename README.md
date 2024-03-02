@@ -4,7 +4,7 @@ This project focuses on developing a comprehensive tool for the efficient detect
 
 The dataset for this project consists of a curated dataset from Kaggle and a high-resolution satellite images obtained from NASA, offering a diverse range of data for real-world wildfire scenarios. The project employs advanced image processing techniques and leverages state-of-the-art machine learning models to achieve accurate and timely wildfire probability detection.
 
-The original code is the Final Project delivery for the [UPC Artificial Intelligence with Deep Learning Postgraduate Course](https://www.talent.upc.edu/ing/estudis/formacio/curs/310401/postgraduate-course-artificial-intelligence-deep-learning/) 2023-2023 edition, authored by:
+The original code is the Final Project delivery for the [UPC Artificial Intelligence with Deep Learning Postgraduate Course](https://www.talent.upc.edu/ing/estudis/formacio/curs/310401/postgraduate-course-artificial-intelligence-deep-learning/) 2023-2024 edition, authored by:
 
 - [Julian Boronat](https://es.linkedin.com/in/boronatje)
 - [Jose Cajide](https://es.linkedin.com/in/jose-cajide-385bb8199)
