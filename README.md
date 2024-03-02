@@ -15,10 +15,11 @@ Advised by professor [Amanda Duarte](https://es.linkedin.com/in/amanda-cardoso-d
 
 # Wildfire Detection Overview:
 The final product looks like this, you can see an image of a territory on the left and the probabilities (marked on yellow on the right):
+
 ![image](https://github.com/ColourDread/MyStuff/assets/149001130/5dac47f7-248a-471e-a8a7-b9d0a19315be)
 
 
-You will later select which part of the globe you wanna choose to create the mask.
+
 
 
 ## Table of Contents
