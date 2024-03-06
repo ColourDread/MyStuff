@@ -1,4 +1,2 @@
 person
-torso
-legs
-arms
+
