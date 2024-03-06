@@ -1,3 +1,4 @@
 person
-ear
-eye
+torso
+arm
+leg
