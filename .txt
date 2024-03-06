@@ -1,4 +1,3 @@
 person
 torso
 arm
-leg
