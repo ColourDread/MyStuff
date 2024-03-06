@@ -1,0 +1,4 @@
+person
+torso
+legs
+arms
